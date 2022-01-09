@@ -1,0 +1,6 @@
+certifi
+chardet
+idna
+netaddr
+requests
+urllib3
